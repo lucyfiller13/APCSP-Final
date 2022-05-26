@@ -1,0 +1,52 @@
+.b {
+background-color: #E6E6FA;
+
+}
+
+.p {
+font-family:  Copperplate ;
+color: black;
+font-size: 20px;
+
+
+}
+}
+
+.image {
+width: 35%
+float: left;
+padding-right: 10px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #DCD0FF;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #5453A6;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #6667AB;
+  color: white;
+}
+
